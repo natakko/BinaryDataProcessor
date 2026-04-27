@@ -14,5 +14,5 @@
 
 ## Запуск
 1. Склонируйте репозиторий.
-2. Откройте `KonturApp.sln` в Visual Studio 2022.
+2. Откройте `KonturTask.slnx` в Visual Studio 2022.
 3. Нажмите **F5**.
